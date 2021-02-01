@@ -5,5 +5,3 @@ again
 again
 
 hello
-
-test gain
